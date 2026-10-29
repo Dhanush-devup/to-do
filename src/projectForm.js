@@ -66,6 +66,7 @@ export function modifyProjects(){
         if (e.target.classList.contains("project_ele")){
             //display or select the project
             //TODO
+            
             console.log("prject selected...")
         }
         else if (e.target.classList.contains("edit_project")){
